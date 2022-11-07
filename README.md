@@ -16,6 +16,6 @@ Requirements will get installed
 Replace <username.> and <passwword.>
 with your username and password in [run.py](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/run.py) file
 
-Now run [connect.cmd](doc:TESTING-Autoconnect) everytime you need to login
+Now run [connect.cmd](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/Connect.cmd) everytime you need to login
 
  _Hope it helps!!!_
