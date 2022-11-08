@@ -12,12 +12,13 @@ Installation Requirements:
 2. winwifi module
 3. selenium module
 
-To install the above file run [requirement.cmd](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/requirements.cmd)
-Requirements will get installed
+Steps to install
 
-Replace <username.> and <passwword.>
-with your username and password in [run.py](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/run.py) file
+1. run [requirement.cmd](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/requirements.cmd)
+   Requirements will get installed
 
-Now run [connect.cmd](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/Connect.cmd) everytime you need to login
+2. Replace <username.> and <passwword.> with your username and password in [run.py](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/run.py) file
+
+3. Now run [connect.cmd](https://github.com/Subhash-Bose/TESTING-Autoconnect/blob/main/Connect.cmd) everytime you need to login
 
  _Hope it helps!!!_
